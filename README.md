@@ -27,3 +27,15 @@ Classroom repository named "lia-username". The submission must be
 identified with an [annotated Git tag][] named "v1.0".
 
 [annotated Git tag]: https://git-scm.com/book/en/v2/Git-Basics-Tagging
+
+## Example
+
+Here is an example of how to submit an assignment once it is done.
+Replace `<placeholders>` with the appropriate values.
+
+```sh
+git add <files to submit>
+git commit -m "<Describe changes made>"
+git tag <tag name> -m "Submit <assignment name>"
+git push --follow-tags
+```
