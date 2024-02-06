@@ -1,4 +1,4 @@
-# Homework: Task management application API
+# Homework: Task management API
 
 The first project you will build in this course is a simple task
 management application (think Google Keep, Todoist and the like),
