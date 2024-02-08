@@ -12,9 +12,9 @@ the last step is to expose its functions to clients. To do so, you will implemen
 -   Requests with unknown URLs should receive a 404 response code with a
     "page not found" error message.
 -   The source code must be formatted using [Black][].
--   The source code must be linted with [Pylint][].
--   Modules, classes and functions (including parameters) must be
-    documented using the style guide seen in class.
+-   ~~The source code must be linted with [Pylint][].~~
+-   ~~Modules, classes and functions (including parameters) must be
+    documented using the style guide seen in class.~~
 
 [doc]: https://docs.python.org/3/library/http.server.html
 [Black]: https://pypi.org/project/black/
