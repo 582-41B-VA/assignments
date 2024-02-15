@@ -36,3 +36,4 @@ of the Newspaper project, you are asked to create a "news" application.
 -   Common code is unified, and not duplicated.
 -   APIs are used correctly.
 -   Models are properly displayed in the admin panel.
+-   Code is properly formatted and linted.
