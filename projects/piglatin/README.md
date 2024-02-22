@@ -8,7 +8,7 @@ to understand.
 ## Rules
 
 1.  If a word begins with a vowel sound, add an "ay" sound to the end of
-    the word (e.g. "eat" = "eatway", let" = "omeletway", " = "areway").
+    the word (e.g. "eat" = "eatay", "omelet" = "omeletay", "are" = "areay").
 
 2.  "xr" and "yt" at the beginning of a word make vowel sounds (e.g.
     "xray" = "xrayay", "yttria" = "yttriaay").
